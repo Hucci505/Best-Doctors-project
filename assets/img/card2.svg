@@ -1,0 +1,48 @@
+<svg width="31" height="32" viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="31" height="32" fill="#F5F5F5"/>
+<g id="medical-victory" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="6143" transform="translate(-523 -1258)" fill="white"/>
+<g id="1/4 Layout 1">
+<rect width="1440" height="832" transform="translate(-523 -415)" fill="white"/>
+<g id="container">
+<g id="row">
+<g id="col-md-3">
+<g id="card" filter="url(#filter0_d_0_1)">
+<rect width="241" height="292" transform="translate(-59.5 -57)" fill="white"/>
+<g id="fixed-width sec-">
+<path d="M-19.5 -12C-19.5 -17.5228 -15.0228 -22 -9.5 -22H40.5C46.0229 -22 50.5 -17.5228 50.5 -12V44C50.5 49.5229 46.0229 54 40.5 54H-9.5C-15.0228 54 -19.5 49.5229 -19.5 44V-12Z" fill="#DDEEFE"/>
+<g id="icon cool-icon-n20" clip-path="url(#clip1_0_1)">
+<g id="004-stethoscope">
+<g id="Frame" clip-path="url(#clip2_0_1)">
+<path id="Vector" d="M9.75001 20.5884V23.5C9.75001 28.1527 13.5348 32 18.1875 32C22.8402 32 26.625 28.1527 26.625 23.5V22.4676C28.762 22.0321 30.375 20.1385 30.375 17.875C30.375 15.2904 28.2721 13.1875 25.6875 13.1875C23.103 13.1875 21 15.2904 21 17.875C21 20.1385 22.6131 22.0321 24.75 22.4676V23.5C24.75 27.1182 21.8057 30.125 18.1875 30.125C14.5693 30.125 11.625 27.1182 11.625 23.5V20.5896C15.4511 19.8877 19.8667 15.1368 20.6311 10.6176C21.1323 7.64925 19.8938 5.273 17.25 4.08444V2.8125C17.25 1.26163 15.9884 0 14.4375 0C12.8866 0 11.625 1.26163 11.625 2.8125C11.625 4.36337 12.8866 5.625 14.4375 5.625H16.102C18.2591 6.42369 19.1658 8.03569 18.7817 10.3054C18.1235 14.201 13.7362 18.8125 10.6875 18.8125C7.27295 18.8125 2.52708 13.3901 2.49833 9.375C2.48551 7.58531 3.4232 6.30206 5.24789 5.625H6.93751C8.48839 5.625 9.75001 4.36337 9.75001 2.8125C9.75001 1.26163 8.48845 0 6.93751 0C5.38658 0 4.12501 1.26163 4.12501 2.8125V4.074C1.86983 5.08387 0.620139 6.97625 0.625014 9.375C0.634577 14.0759 5.50508 19.802 9.75001 20.5884V20.5884ZM24.75 16.9375H26.625V18.8125H24.75V16.9375Z" fill="#E74040"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-78.5" y="-63" width="279" height="330" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="13"/>
+<feGaussianBlur stdDeviation="9.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="6143" fill="white" transform="translate(-523 -1258)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="32" height="32" fill="white" transform="translate(-0.5)"/>
+</clipPath>
+<clipPath id="clip2_0_1">
+<rect width="29.75" height="32" fill="white" transform="translate(0.625)"/>
+</clipPath>
+</defs>
+</svg>
